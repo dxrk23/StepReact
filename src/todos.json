@@ -1,0 +1,21 @@
+{
+    "todos" : [
+        {
+            "id" : 1,
+            "task": "Learn React",
+            "completed" : false
+        },
+        {
+            "id" : 2,
+            "task": "Eat breakfast",
+            "completed" : false
+        },
+        {
+            "id" : 3,
+            "task": "Do my homework",
+            "completed" : false
+        }
+    ]
+}
+
+
